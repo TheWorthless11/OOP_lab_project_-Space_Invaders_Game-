@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695592741 source:c:\users\mahhia\documents\codeforwin\2107081(space invaders game)\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<vector>
+	<fstream>
+
